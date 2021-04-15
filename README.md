@@ -9,3 +9,5 @@ If you'd like to contribute some Heytops, make a pull request with both the desk
 Enjoy Heytops!
 
 (Artwork belongs to their respective authors. By listing them in this repository, you are allowing folks to use your images for use with Hey.com's Cover Art feature only.)
+
+![HeyTops](readme-figure.png)
